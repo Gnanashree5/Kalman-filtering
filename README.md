@@ -36,3 +36,5 @@ The **Kalman Filter** is a powerful algorithm used to estimate the state of a sy
 The code simulates noisy measurements of an object moving in 1D. The Kalman Filter estimates the true position and velocity from these noisy measurements.
 
 ---
+<h2>Acknowledgements</h2>
+<p>This notebook was done under guidance of  <a href="https://github.com/Victor-Ikechukwu">Dr. Agughasi Victor Ikechukwu</a></p>
